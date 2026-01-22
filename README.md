@@ -2,7 +2,6 @@
 
 > Um portfólio imersivo desenvolvido para apresentar minha jornada como Desenvolvedor Full Stack. Este projeto combina uma arquitetura limpa com elementos visuais interativos e tema Aurora Emerald.
 
-![Preview do Portfolio](./preview.png)
 
 ## ✨ Destaques Visuais
 
