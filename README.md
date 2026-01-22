@@ -18,5 +18,4 @@ O projeto apresenta uma identidade visual única baseada no tema **Aurora Emeral
 * **Ícones:** Lucide React
 * **Animações:** CSS Keyframes & HTML5 Canvas API (Nativo)
 
-## 🚀 Como rodar localmente
 
